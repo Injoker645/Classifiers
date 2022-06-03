@@ -1,1 +1,0 @@
-Classifying microscopic protein slides
