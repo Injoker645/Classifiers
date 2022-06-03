@@ -1,1 +1,1 @@
-Need to rerun malaria cells and sign language classifiers
+A collection of various predictor models I've made.
